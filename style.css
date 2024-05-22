@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+.firstbox{
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid#adf0d0;
+    text-align: center;
+    background-color: #adf0d0;
+    font-family: sans-serif;
+    padding: 20px 30px;
+    box-shadow: 0px 0px 4px 0px #e6e6e6;
+}
+.secondbox{
+    margin: 0 auto;
+    width: 500px;
+    background-color: #adf0d0;
+    text-align: center;
+}
+ol{
+    list-style: none;
+}
+input{
+    font-size: large;
+    padding: 10px;
+    font-size: medium;
+    width: 120px;
+    height: 15px;
+}
+button{
+    font-size: 14px;
+    border: 1px solid gainsboro;
+    border-radius: 100px;
+    height: 35px;
+}
